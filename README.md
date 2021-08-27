@@ -1,1 +1,31 @@
 # goit-js-hw-test
+
+- Терминал
+    -Открыть
+        - `control + ~`
+        -`view > terminal`
+        -через плитру `command + shift + p`
+    - Основные полезные команды
+        - путь (pwd)
+        -лист (ls)
+        -навигация (cd)
+        -очистка `clear` или  `control + l`
+        -создание файлов (touch)
+        - создание папок (mkdir)
+        - переименование/перемещение (mv)
+        -удаление (rm)
+- Node.js b npm
+    -установка
+        - инициализация и package.json
+        - [npmjs.com](http://www.npmjs.com/)
+    -работа с пакетом
+        -установка
+        -удаление
+    -CommonJs модули
+        -npm-скрипты
+        -pre и post
+    -Трансляция кода
+        -[Babel](http://bablejs.io/)
+        - CLI и npm-скрипты
+        -Пресеты
+
